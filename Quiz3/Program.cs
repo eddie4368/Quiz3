@@ -18,7 +18,7 @@ namespace Quiz3
             Console.WriteLine("Enter a string:");// ask for user input
             Console.ReadLine();
 
-            Console.WriteLine("Enter a string:");// ask for user input
+            Console.WriteLine("Enter a string:");// ask for user input .
             Console.ReadLine();
         }
     }
